@@ -14,4 +14,4 @@ orig_name: nginx-lego
 sources:
 - https://github.com/kubernetes/contrib/tree/master/ingress/controllers/nginx
 - https://github.com/jetstack/kube-lego/tree/master/examples/nginx
-version: 0.3.1
+version: 0.0.1
